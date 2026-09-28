@@ -1,6 +1,5 @@
 # Memory
 
-This project has moved durable bot context into `CLAUDE.md` at the
-project root (committed, diffed, reviewable). The per-project memory
-directory is intentionally empty — see the `## Memory` section of
-`CLAUDE.md` for the rationale.
+This project keeps durable agent context in its agent-files, `AGENTS.md` at the work-repo root and
+what it links, which are committed, diffed, and reviewable. The per-project memory directory is
+intentionally empty, as `AGENTS.md > Working practices` says under "No memory directory".
